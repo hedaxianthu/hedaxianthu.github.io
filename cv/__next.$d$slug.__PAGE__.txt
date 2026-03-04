@@ -49,5 +49,5 @@
 ## Skills & Personal
 
 - **Languages:** Chinese (Native), English (Proficient, 108 in TOEFL), and French (B1, everyday life)
-- **Interests:** Amateur transportation photography, Traveling (Visited 18 countries/regions including US, UK, France, etc.)0:{"buildId":"kBvzJOb_T3j2wMJ2XDCxC","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L2",null,{"config":{"type":"text","title":"CV","source":"cv.md"},"content":"$3"}],false]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+- **Interests:** Amateur transportation photography, Traveling (Visited 18 countries/regions including US, UK, France, etc.)0:{"buildId":"KKKM6qjbZ4TWGyhVbsmGr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L2",null,{"config":{"type":"text","title":"CV","source":"cv.md"},"content":"$3"}],false]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
